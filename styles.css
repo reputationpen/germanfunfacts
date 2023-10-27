@@ -1,3 +1,4 @@
+ @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 body {
     margin: 0;
     padding: 0;
@@ -7,7 +8,7 @@ body {
     height: 100vh;
     background-color: white;
     color: black;
-    font-family: Arial, sans-serif;
+    font-family: 'Indie Flower', cursive;
 }
 
 .container {
